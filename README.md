@@ -4,7 +4,7 @@ Profile Page: https://dancingsoldier.github.io/
 
 Art Portfolio: https://www.artstation.com/dancingsoldier
 
-Code Portfolio: https://dancingsoldier.github.io/
+Code Snippets: https://github.com/DancingSoldier/Code-Examples/tree/main
 
 Project Portfolio: https://dancingsoldier.itch.io/
 
