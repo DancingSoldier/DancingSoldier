@@ -1,10 +1,10 @@
 ## Hi there I'm Joonatan. I'm an art hobbyist and indie Game Developer
 
-Art: https://www.artstation.com/dancingsoldier
+Art Portfolio: https://www.artstation.com/dancingsoldier
 
-Code: https://dancingsoldier.github.io/
+Code Portfolio: https://dancingsoldier.github.io/
 
-Games: https://dancingsoldier.itch.io/
+Project Portfolio: https://dancingsoldier.itch.io/
 
 <!--
 **DancingSoldier/DancingSoldier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
