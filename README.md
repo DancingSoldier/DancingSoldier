@@ -1,5 +1,7 @@
 ## Hi there I'm Joonatan. I'm an art hobbyist and indie Game Developer
 
+Profile Page: https://dancingsoldier.github.io/
+
 Art Portfolio: https://www.artstation.com/dancingsoldier
 
 Code Portfolio: https://dancingsoldier.github.io/
